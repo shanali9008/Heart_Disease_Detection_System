@@ -1,5 +1,6 @@
 # Overview
 This project is a Final Year Project focused on predicting the likelihood of heart disease using Machine Learning techniques.
+
 The system analyzes medical input features and classifies whether a patient is at risk of heart disease. Along with model development, a user-friendly web interface was built using Streamlit for real-time predictions.
 <br>
 
